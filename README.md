@@ -1,4 +1,3 @@
-WDP
-===
+##WDP
 
-wstep do programowania, programy napisane w jezyku C
+####Wstep do programowania, programy napisane w jezyku C
